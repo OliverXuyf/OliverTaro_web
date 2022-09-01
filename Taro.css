@@ -1,0 +1,63 @@
+.head {
+    text-align: left;
+    align-items: center;
+    display: flex;
+}
+
+.Tarotitle {
+    color: #6458A0;
+    font-size: 50px;
+    display: flex;
+    font-family: avenir-lt-w01_85-heavy1475544, avenir-lt-w05_85-heavy, sans-serif;
+    margin: 10px;
+}
+
+h2 {
+    color: #6458A0;
+    text-align: center;
+    font-size: 30px;
+    font-family: avenir-lt-w01_85-heavy1475544, avenir-lt-w05_85-heavy, sans-serif;
+}
+
+h3 {
+    font-size: 20pt;
+    text-align: left;
+}
+
+.information {
+    text-align: left;
+    background: #E4E4FB;
+    margin: 0 auto;
+    max-width: 486px;
+    padding: 48px;
+    color: #6458A0;
+}
+
+.actions_wrap {
+    background: #E4E4FB;
+    padding: 20px;
+}
+
+.label {
+    padding: 20px;
+    text-align: left;
+}
+
+body {
+    background-color: #F1F1FD;
+}
+
+svg {
+    width: 31px;
+    height: 31px;
+    fill: #6459A1;
+    display: flex;
+}
+
+.bottom {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
